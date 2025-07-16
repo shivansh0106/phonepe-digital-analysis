@@ -94,5 +94,5 @@ Pull requests are welcome. For suggestions & improvements, feel free to raise an
 
 📬 Contact
 For any queries:
-📧 Email: your.email@example.com
-📱 LinkedIn: Your Profile
+📧 Email: shivanshrao123@gmail.com
+📱 LinkedIn: https://www.linkedin.com/in/shivansh-rao0111
